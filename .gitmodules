@@ -1,0 +1,9 @@
+[submodule "plugins/tmux-mem-cpu-load"]
+	path = plugins/tmux-mem-cpu-load
+	url = git@github.com:thewtex/tmux-mem-cpu-load.git
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = git@github.com:tmux-plugins/tpm.git
